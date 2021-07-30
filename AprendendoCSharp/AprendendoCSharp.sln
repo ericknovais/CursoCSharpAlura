@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1062
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 - PrimeiroProjeto", "1 - PrimeiroProjeto\1 - PrimeiroProjeto.csproj", "{BEA4E678-6F39-4795-801E-ACDB33DBD3F7}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{8E3651F9-747B-4FFC-B787-19E5CB19FD42}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConversoesEOutrosTiposNumericos", "4-ConversoesEOutrosTiposNumericos\4-ConversoesEOutrosTiposNumericos.csproj", "{295F799F-3BD6-4C4D-8A82-5EEBDB74FF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{7BDCD242-3E8C-41B6-8D43-EB29A236E3D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{295F799F-3BD6-4C4D-8A82-5EEBDB74FF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{295F799F-3BD6-4C4D-8A82-5EEBDB74FF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{295F799F-3BD6-4C4D-8A82-5EEBDB74FF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BDCD242-3E8C-41B6-8D43-EB29A236E3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDCD242-3E8C-41B6-8D43-EB29A236E3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDCD242-3E8C-41B6-8D43-EB29A236E3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDCD242-3E8C-41B6-8D43-EB29A236E3D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
