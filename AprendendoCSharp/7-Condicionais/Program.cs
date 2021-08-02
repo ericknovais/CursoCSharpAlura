@@ -25,7 +25,7 @@ namespace _7_Condicionais
                 }
                 else
                 {
-                    Console.WriteLine("João não possui mais de 18 anos. Não pode entrar");
+                    Console.WriteLine("João não possui mais de 18 anos. Não pode entrar"); 
                 }
             }
             Console.WriteLine("Execusão finalizada. Tecle entre para sair...");
